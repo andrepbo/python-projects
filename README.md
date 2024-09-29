@@ -8,6 +8,7 @@ This directory contains various projects developed in **Python**. Each project h
 | ------------- | ----------- | ---- |
 | fastapi-app   | This is a FastAPI application with Docker support, and it includes testing functionality using pytest. | [Link to repo](https://github.com/andrepbo/fastapi-app.git) |
 | flask-app     | This is a Flask application that is Dockerized for ease of deployment and testing. It includes testing capabilities with pytest and pytest-flask. | [Link to repo](https://github.com/andrepbo/flask-app.git) |
+| distributed-system-python-kafka     | This repository provides a guide for setting up Docker and Kafka services with a detailed list of commands to manage Kafka topics. | [Link to repo](https://github.com/andrepbo/distributed-system-python-kafka.git) |
 
 ## Areas of Focus
 
